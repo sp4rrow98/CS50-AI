@@ -21,3 +21,7 @@ This repository contains my implementations for various projects from the CS50 A
 
 - **Week 6: Neural Networks**
   - Description: Explore neural networks and deep learning by implementing a neural network for a specific task.
+
+- **Week 7: Language Processing**
+  - Description: Develop a project focusing on language processing and understanding.
+  
